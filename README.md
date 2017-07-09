@@ -10,3 +10,5 @@ Function `std_dev_stretch` takes two arguments,
 - k : often a value between 1 and 2\.
 
 Output image is saved in  a file 'output.jpg'\.
+
+![screenshot2](https://user-images.githubusercontent.com/8946566/27991229-95b747cc-648d-11e7-9813-e9feb990c011.jpg)
