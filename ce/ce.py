@@ -57,4 +57,4 @@ def std_dev_stretch(image,k):
 	plt.show()
 	plt.imsave('output.jpg',out)
 
-std_dev_stretch('example2.jpg',1.6)
+std_dev_stretch('Sample_Input/example1.jpg',1.6)
