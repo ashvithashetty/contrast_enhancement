@@ -11,3 +11,12 @@ Function `std_dev_stretch` takes two arguments,
 Output image is saved in  a file 'output.jpg'.
 
 ![screenshot2](https://user-images.githubusercontent.com/8946566/27991229-95b747cc-648d-11e7-9813-e9feb990c011.jpg)
+
+Installation guide:
+
+pip install contrast_enhancement
+
+Usage guide:
+
+import ce
+ce.std_dev_stretch('/path/to/file.jpg',value_of_parameter_k)
